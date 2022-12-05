@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "runwheel.bat", 0, True
