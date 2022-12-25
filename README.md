@@ -1,3 +1,3 @@
 # Flight-Simulator-3D
 WARNING: Not all assets are posted.
-Download all assets here: https://drive.google.com/drive/folders/1J33MEsyWh-gMr-fk8gKZviwcomY3DUfN?usp=sharing
+Download all assets here: https://drive.google.com/file/d/1cp07Th9GUp6j1lx_BOBuepl4mSJT1dBi/view?usp=share_link
